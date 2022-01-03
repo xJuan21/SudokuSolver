@@ -1,11 +1,13 @@
 # SudokuSolver
 A program that will read any txt file that will transform its content (if it is valid input) into a Sudoku chart. Consequently, the program will recursively solve the following sudoku and print the solution. 
 
-Juan Mota.
+Juan Mota
+
 DATE: 09/21/2020.
 Platform used: Linux (Gedit).
 
 In order to compile the following Project, it was need to complete the following sequence of steps:
+
 1.- Initialize:
 
 	1.a An two dimensional Array with the capacity of creating a 9x9 Sudoku Chart.
