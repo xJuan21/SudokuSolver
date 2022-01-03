@@ -7,6 +7,8 @@ DATE: 09/21/2020
 
 Platform used: Linux (Gedit).
 
+This program utilized a 2-Dimensional Array to store each digit in the Sudoku Chart. For execution, Compile the 
+
 In order to compile the following Project, it was need to complete the following sequence of steps:
 
 1.- Initialize:
