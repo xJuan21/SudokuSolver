@@ -7,7 +7,7 @@ DATE: 09/21/2020
 
 Platform used: Linux (Gedit).
 
-This program utilized a 2-Dimensional Array to store each digit (9x9) in the Sudoku Chart. For execution, Compile the SudokuSolver.cpp file and run the executable. The program will ask for an input. "Sample.txt" can be used as a reference of what the program needs to be successfully executed. 0's represent empty spaces, that are later shown as stars ('*') in the program.
+This program utilized a 2-Dimensional Array to store each digit (9x9) in the Sudoku Chart. For execution, Compile the SudokuSolver.cpp file with the Makefile and run the executable. The program will ask for an input. "Sample.txt" can be used as a reference (Do not include .txt) of what the program needs to be successfully executed. 0's represent empty spaces, that are later shown as stars ('*') in the program.
 
 In order to compile the following Project, it was need to complete the following sequence of steps:
 
