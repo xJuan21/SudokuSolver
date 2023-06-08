@@ -1,4 +1,7 @@
 # Sudoku Solver
+
+https://github.com/xJuan21/SudokuSolver/assets/64575393/9ff0fe82-c7da-4c8f-8c2e-7859c5351def
+
 A program that will read any txt file that will transform its content (if it is valid input) into a Sudoku chart. Consequently, the program will recursively solve the following sudoku and print the solution. 
 
 Juan Mota 
